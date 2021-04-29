@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Henrique.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Henrique!
 
 If I say my dream as a kid was to become a software developer I would be lying. Until I gave it a try and then realized that there is more than one right answer in coding, and problem-solving is a determinant skill, I have been coding every day.
 
@@ -23,6 +23,20 @@ Now, I completed a Software Developer Bootcamp, which I finished 6 months before
 <img src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" alt="Google Maps logo" width="50px" height="50px" />
 
 ---
+
+###  GitHub Stats
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueperoni&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueperoni&hide=html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
 <!--
 **Henriqueperoni/Henriqueperoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
