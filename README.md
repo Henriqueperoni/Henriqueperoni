@@ -1,5 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Henrique.
 
+If I say my dream as a kid was to become a software developer I would be lying. Until I gave it a try and then realized that there is more than one right answer in coding, and problem-solving is a determinant skill, I have been coding every day.
+
+Now, I completed a Software Developer Bootcamp, which I finished 6 months before the deadline. Discipline and consistency are two of the skills that help me learn how to code and get 1% better every day.
+
+---
+
+
 <!--
 **Henriqueperoni/Henriqueperoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
